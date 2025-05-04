@@ -1,0 +1,3 @@
+Bot blocked [167.94.145.96] REASON: Blacklisted user agent
+Bot blocked [1.1.1.1] REASON: Detected proxy/hosting.
+Bot blocked [1.1.1.1] REASON: Detected proxy/hosting.
